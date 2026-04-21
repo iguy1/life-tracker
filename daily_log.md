@@ -2,3 +2,4 @@
 - 2026-04-19 16:40: Hack
 - 2026-04-20 22:33: [Lift] I hit a leg day today, it was pretty good and I PR in lunges hitting 90lbs. I am glad that I showed up and hit legs. I need to go up next week for hack squats But overall it was a good lift.
 - 2026-04-20 22:36: [Lift] Today was a leg day it was pretty good. I need to PR next week on hacksquat and try to hit 315 lbs. I PR today though with 3 sets on lunges with 90lbs.
+- 2026-04-20 22:48: [Code] Today I looked into the code that works for PWM when it comes to the speed of the motor for each wheel. Not a lot accomplished will check back in on Tuesday to learn more.
