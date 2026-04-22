@@ -4,3 +4,4 @@
 - 2026-04-20 22:36: [Lift] Today was a leg day it was pretty good. I need to PR next week on hacksquat and try to hit 315 lbs. I PR today though with 3 sets on lunges with 90lbs.
 - 2026-04-20 22:48: [Code] Today I looked into the code that works for PWM when it comes to the speed of the motor for each wheel. Not a lot accomplished will check back in on Tuesday to learn more.
 - 2026-04-21 23:36: [Hack] Today I used metasploit for the first time by breaking into a vulnerable VM that had a file system port open. This allowed me to connect to the VM and establish root acces by running the specific metasploit command. It was a huge milestone, by actually breaking into a machine for the first time even though it was a simulated lab.
+- 2026-04-21 23:38: [Run] I ran 4 miles today at an 8:30 pace, it was nice to run early morning and I definitely didn't want to do it but I felt better afterwards.
