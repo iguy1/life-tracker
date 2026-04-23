@@ -7,3 +7,4 @@
 - 2026-04-21 23:38: [Run] I ran 4 miles today at an 8:30 pace, it was nice to run early morning and I definitely didn't want to do it but I felt better afterwards.
 - 2026-04-22 21:04: [Lift] I hit back and biceps, honestly could have went harder but one of those days where I just wanted to get through the workout.
 - 2026-04-22 21:04: [Code] Today I learned of some libraries and among definitions for coding a robot.
+- 2026-04-22 21:06: [life] Robotics
